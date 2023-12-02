@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JeremyNakano12
+- 👀 I’m interested in learn about Python and C#
+- 🌱 I’m currently learning Python and C#
